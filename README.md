@@ -29,7 +29,7 @@ The courses in the Professional Certificate include:
   - [x] Week 3: Packages, APIs, Datasets and Models
   - [x] Week 4: Jupyter Notebooks and JupyterLab
   - [x] Week 5: RStudio and GitHub **&**  Final Exam
- - **Final Project: Peer-Graded Assignment**
+- **Final Project: Peer-Graded Assignment**
   - [x] DataScienceEcosystem.ipynp
   ---
 [**3. Data Science Methodology**](https://www.coursera.org/learn/data-science-methodology) folder includes:
