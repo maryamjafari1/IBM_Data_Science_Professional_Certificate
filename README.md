@@ -1,5 +1,5 @@
 # Data Science Professional Certificate (Coursera)
-This repository contains all the assignments/quizzes from 10-course [**IBM Data Science Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-science).
+This repository contains all the assignments/quizzes/solutions from 10-course [**IBM Data Science Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 The courses in the Professional Certificate include:
 -  **What is Data Science?**
